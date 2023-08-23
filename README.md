@@ -90,10 +90,3 @@ Select this option to find specific text within the file and replace all occurre
 Use this option to save any changes made during editing and exit the program.
 
 
-## License
-
-This program is released under the [MIT License](LICENSE). You are free to use, modify, and distribute the code, but remember to credit the original authors and include the license notice in your derivatives. The authors hold no liability for how you use this code.
-
----
-
-Please adjust and expand this README as needed to suit your specific usage and preferences.
