@@ -45,17 +45,17 @@ To compile and run the program, you need:
 
 3. Compile the code using the following command:
    
-   ```bash
+   
    gcc -o file_editor file_editor.c
-   ```
+
 
 ### Running the Program
 
 1. After compilation, run the program using this command:
    
-   ```bash
+   
    ./file_editor
-   ```
+
 
 ## Usage
 
